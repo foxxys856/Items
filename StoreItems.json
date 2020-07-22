@@ -2102,6 +2102,24 @@
 		"defname": "VAE_Headgear_NightVisionGoggles"
 	},
 	{
+		"abr": "c-composite",
+		"price": 5,
+		"category": "Raw resources",
+		"defname": "CarbonFiber"
+	},
+	{
+		"abr": "c-weave",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "CarbonWeave"
+	},
+	{
+		"abr": "diamond",
+		"price": 67,
+		"category": "Raw resources",
+		"defname": "Diamond"
+	},
+	{
 		"abr": "overalls",
 		"price": 180,
 		"category": "Apparel",
